@@ -1,6 +1,6 @@
 ```
-참고하여 README.md를 만들어주세요. 
-기존의 Repository의 README.md를 수정하여 참가하셔도 됩니다.
+본 파일을 참고하여 README.md를 만들어주세요. 
+기존 Repository의 README.md를 수정하여 참가하셔도 됩니다.
 ```
 
 제14회 Daum DevDay 참가 아이디어
@@ -17,9 +17,10 @@
 ## 개발 플랫폼
 _(플랫폼에 대한 제약은 없습니다.)_
 * Android
+* iOS
 
 ## 사용되는 API
-_(사용 예정인 API 목록, 다음 API만을 사용하지 않아도 됩니다.)_
+_(사용 예정인 API 목록, 다음 API만 사용할 필요는 없습니다.)_
 * 마이피플 API
 * 소셜픽 API
 * 에버노트 API
